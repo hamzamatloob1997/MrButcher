@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646258826667",
+    "project_id": "mr-butcher-fcc7e",
+    "storage_bucket": "mr-butcher-fcc7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646258826667:android:b80eb1ce082f97553206ee",
+        "android_client_info": {
+          "package_name": "com.example.mr_butcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646258826667-areodkv17v06s6bvag1qus1hd70jo43n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6K09idjr5j75XlIxg4Mrb3gKxEFSLhuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646258826667-areodkv17v06s6bvag1qus1hd70jo43n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
